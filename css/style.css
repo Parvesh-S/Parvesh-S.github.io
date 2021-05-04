@@ -4,7 +4,7 @@ html { scroll-behavior: smooth; }
 body { margin: 0; }
 
 header, footer {
-  background-color: #329da8;
+  background-color: #E44235;
   text-align: left;
   /* min-width: 500px; */
 }
@@ -41,7 +41,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #d19813;
   padding: 10px 0px 10px 10px;
 }
 
@@ -82,7 +82,7 @@ img {
 } 
 
 .myButton:hover { 
-  background-color:#247078; 
+  background-color:#80211b; 
 } 
 
 .myButton:active { 
@@ -122,7 +122,7 @@ img {
   letter-spacing: 0.1px;
   text-align: left;
   color: #4a4a4a;
-  padding: 10px 0px 10px 10px;
+  padding: 10px 5px 10px 10px;
   border-top: 1px solid #CECECE;
 }
 
